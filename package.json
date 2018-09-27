@@ -30,7 +30,7 @@
     "angular-mocks": "^1.6.0",
     "@babel/core": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
-    "babel-loader": "^8.0.0",
+    "babel-loader": "^8.0.3",
     "cz-conventional-changelog": "^2.0.0",
     "eslint": "^5.0.0",
     "eslint-config-google": "^0.9.1",
